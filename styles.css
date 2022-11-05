@@ -24,10 +24,7 @@
  .heading{
     margin:10px;
  }
- button:active,hover,focus{
-    outline:none;
-    border:none;
-}
+
 .heading{
     display:flex;
     justify-content: center;
